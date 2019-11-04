@@ -2,6 +2,9 @@ execute pathogen#infect()
 
 let g:airline_powerline_fonts = 1
 let g:gruvbox_contrast_dark = 'hard'
+let g:table_mode_header_fillchar='='
+let g:table_mode_corner='+'
+let mapleader = ','
 
 if &term =~ '256color'
     " Disable Background Color Erase (BCE) so that color schemes
