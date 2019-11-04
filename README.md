@@ -15,14 +15,12 @@
 
 ```
 
-Clone repo and save as .vim folder in home repo
-Add ```ln -s .vim/vimrc .vimrc``` to your home folder
+* Clone repo and save as .vim folder in home repo
+* Add ```ln -s .vim/vimrc .vimrc``` to your home folder
 
 Active packages
 -----------------
-gruvbox syntax highlighting
-
-airplane 
-
-vim-table-mode
+1. gruvbox syntax highlighting
+2. airplane 
+3. vim-table-mode
  
