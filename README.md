@@ -16,6 +16,7 @@
 ```
 
 Clone repo and save as .vim folder in home repo
+Add ```ln -s .vim/vimrc .vimrc``` to your home folder
 
 Active packages
 -----------------
