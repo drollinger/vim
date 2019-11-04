@@ -20,6 +20,8 @@ Clone repo and save as .vim folder in home repo
 Active packages
 -----------------
 gruvbox syntax highlighting
+
 airplane 
+
 vim-table-mode
  
