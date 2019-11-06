@@ -16,7 +16,7 @@ syntax on
 set background=dark
 colorscheme gruvbox
 hi LineNr ctermfg=240 ctermbg=235
-
+set autoindent
 
 set number
 set incsearch
