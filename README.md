@@ -8,7 +8,12 @@
 ```
 
 * Clone repo and save as .vim folder in home repo
+* Run:
+	1. ```git submodule init```
+	2. ```git submodule update```
+
 * Add ```ln -s .vim/vimrc .vimrc``` to your home folder
+
 
 Active packages
 -----------------
